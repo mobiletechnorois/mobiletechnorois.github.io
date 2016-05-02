@@ -71,6 +71,6 @@
 }
 
 //*-------------------------------*//
-page { 
-    background-color:#ffffff;
+.ui-body-c { 
+	background:#ffffff !important; 
 }
